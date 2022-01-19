@@ -3,9 +3,9 @@ I found a next code
 
 class C {
 
-\t C c;
+ C c;
 
-\t int x;
+ int x;
 
 };
   
