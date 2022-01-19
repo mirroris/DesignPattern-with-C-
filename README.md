@@ -1,5 +1,5 @@
 # DesignPattern-with-C-
-I found \\
+I found 
   class C {
    C c;
    int x;
