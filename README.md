@@ -1,11 +1,11 @@
 # DesignPattern-with-C-
 I found a next code
 
-  class C {
+class C {
 
-C c;
+\t C c;
 
-int x;
+\t int x;
 
 };
   
