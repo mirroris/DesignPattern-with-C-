@@ -1,5 +1,4 @@
-# DesignPattern-with-C-
-1. Singleton
+# 1. Singleton
 
 I found a next code
 
