@@ -10,4 +10,4 @@ class C {
 
 };
   
- in my class readme. However I wonder how compiler understand this code and finally I found this code was mistake.
+ in my class readme. However I wonder how compiler understand this code and finally I found this code was a mistake.
